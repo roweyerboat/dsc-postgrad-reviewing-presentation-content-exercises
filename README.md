@@ -12,10 +12,10 @@ Before you work on your own materials, revisit the messy presentation materials 
 
 ### Question 1: If the target audience is meant to be [ (home seller trying to estimate how to price their home/home buyer looking to buy a home they can make a few improvements to and flip for more...)  ], what information included in the presentation is not aligned to that audience? 
 
-A. example info from slide...
-B. example info from slide...
-C. example info from slide...
-D. example info from slide...
+A. example info from slide... <br>
+B. example info from slide... <br>
+C. example info from slide... <br>
+D. example info from slide... <br>
 
 ### Question 2: Assuming the target audience is [filled in], how would you answer the audience persona questions?
 
