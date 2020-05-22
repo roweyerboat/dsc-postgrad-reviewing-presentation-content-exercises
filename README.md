@@ -10,25 +10,37 @@ Before you work on your own materials, revisit the messy presentation materials 
 
 ## Part 1: Quiz
 
-### Question 1: Which presentatiion title is more engaging?
+### Question 1: If the target audience is meant to be [ (home seller trying to estimate how to price their home/home buyer looking to buy a home they can make a few improvements to and flip for more...)  ], what information included in the presentation is not aligned to that audience? 
+A. example info from slide...
+B. example info from slide...
+C. example info from slide...
+D. example info from slide...
+
+### Question 2: Assuming the target audience is [filled in], how would you answer the audience persona questions?
+
+| **Question** | **Answers** |
+|----------|----------------|
+| 1. Who will be receiving your presentation and what is their roll in the company? |   |
+| 2. What is their background, technical or non-technical? | |
+| 3. How will your presentation affect their work or a decision they need to make? |  |
+| 4. What is their attention span? |   |
+| 5. What is the goal of the presentation? |  |
 
 
-### Question 2: After reviewing the presentation, who do you think is the target audience?
-A. Literary journal
-B. Someone looking to buy a home
-C. Someone looking to maximize their profit flipping a house
-D. Unclear
-
-### Question 3: Which description of the business problem do you think would be more engaging to the target audience?
+### Question 3: Which presentatiion title is more engaging?
 
 
-### Questioon 4: If the text bellow is the outline of the presentation along with the key information of each slide, which two key bits of information are missing?
+
+### Question 4: Which description of the business problem do you think would be more engaging to the target audience?
 
 
-### Question 5: Using the same outline and slide points show in question 4, which slides could we remove?
+### Questioon 5: If the text bellow is the outline of the presentation along with the key information of each slide, which two key bits of information are missing?
 
 
-### Question 6: Which slide might have too much information?
+### Question 6: Using the same outline and slide points show in question 4, which slides could we remove?
+
+
+### Question 7: Which slide might have too much information?
 
 
 
@@ -37,9 +49,11 @@ D. Unclear
 
 ## Part 2: Answers
 
-Question 1:
 
-Question 2:  If you answered "unclear", you are right. The _intended_ audience is [Lindsey put here], but [such and such] made it confusing.
+
+Question 1: 
+
+Question 2:
 
 Question 3:
 
