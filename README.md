@@ -1,4 +1,4 @@
-# Reviewing Presentation Content Exercise
+# Project Presentation Content - Exercises
 
 ## Introduction:
 
@@ -111,3 +111,4 @@ Both are too technical and too detailed to be relevant to our target audience.
 **Question 7:**
 
 Data slide (#2) probably goes into too much detail - a brief overview of how the data is relevant to the problem is probably more appropriate.
+
