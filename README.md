@@ -1,4 +1,4 @@
-# Reviewing Presentation Content Exercise
+# Project Presentations - Exercises
 
 ## Introduction:
 
