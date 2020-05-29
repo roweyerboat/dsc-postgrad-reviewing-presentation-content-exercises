@@ -49,7 +49,7 @@ C. Selling a home can be a torturous process - without an accurate estimate of h
 ### The next three questions will use the following presentation outline, along with key information that will be contained on each slide:
 
 1) Overview of presentation
-2) Data: Where the data came from, and an in-depth look at all of the data used in the model
+2) Data: Where the data came from, and an in-depth look at each variable used in the model
 3) Data Preparation: How the data transformed between the raw data and what was used in the model
 4) Solution: Overview of the model and how it solves this problem better than other approaches (or baseline)
 5) Modeling Process: Overview of how key considerations within the data made you choose the preferred model over other options
@@ -103,11 +103,11 @@ Presentation outline is missing:
 
 We could remove:
 
-- Data Preparation
-- Modeling Process
+- Data Preparation (#3)
+- Modeling Process (#5)
 
 Both are too technical and too detailed to be relevant to our target audience.
 
 **Question 7:**
 
-Data Analysis slide probably goes into too much detail - a brief overview of how the data is relevant to the problem is probably more appropriate.
+Data slide (#2) probably goes into too much detail - a brief overview of how the data is relevant to the problem is probably more appropriate.
