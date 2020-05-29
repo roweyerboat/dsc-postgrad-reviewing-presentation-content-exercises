@@ -1,4 +1,4 @@
-# Project Presentations - Exercises
+# Project Presentation Content - Exercises
 
 ## Introduction:
 
