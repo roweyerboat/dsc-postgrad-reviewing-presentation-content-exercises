@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Before you work on your own materials, let's revisit the messy presentation materials to examine the impact of reviewing project content. This lesson is a quiz that will require you to review the presentation through the lens of refining the presentation content. Take time to think through the quiz questions before reviewing the answers in Part 2!
+Before you work on your own materials, let's revisit the messy presentation materials to examine the impact of reviewing project content. This lesson is a quiz that will require you to review the presentation through the lens of refining the presentation content. Take time to think through the questions before reviewing the `solution` branch on github with the answers.
 
 ## Objectives
 
